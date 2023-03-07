@@ -10,8 +10,8 @@
 
 - git은 뭐냐?
 1. 형상 관리 도구 중 하나
-형산관리 도구 : 버전 관지 시스템
-작업하면서 작업의 리스트를 관리 할수 있다.
+형산관리 도구 : 버전 관리 시스템
+작업하면서 작업의 리스트를 관리 할수 있다
 
 - git의 장점
 - 협업하는 단계에서 소스 코드를 파일로 주고 받을 필요가 없이
@@ -27,7 +27,7 @@
 - git 사용자 설정
 
 - git config --global user.name "byungjoo0806"
-- git config --global user.email "andybyungjoopark@gmail.com
+- git config --global user.email "andybyungjoopark@gmail.com"
 
 -설정 정보 조회
 - git config --global --list
